@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "random-color-selector": "^1.1.2",
+    "random-drink-selector": "^1.1.2",
+    "random-food-selector": "^1.1.2"
+  }
+}
